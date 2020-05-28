@@ -191,7 +191,14 @@ input, select, textarea {
 			font-size: 1.25rem;
 		}
 
-	h1, h2, h3, h4, h5, h6 {
+	h1{
+		font-weight: 600;
+		line-height: 1.375;
+		letter-spacing: -0.05em;
+		margin: 0 0 1rem 0;
+	}
+		
+	h2, h3, h4, h5, h6 {
 		font-weight: 300;
 		line-height: 1.375;
 		letter-spacing: -0.05em;
@@ -2157,9 +2164,9 @@ input, select, textarea {
 		input[type="button"].large,
 		button.large,
 		.button.large {
-			font-size: 0.8rem;
-			height: 4em;
-			line-height: 4em;
+			font-size: 1.2rem;
+			height: 3em;
+			line-height: 3em;
 			border-radius: 4em;
 			padding: 0 3em;
 		}
