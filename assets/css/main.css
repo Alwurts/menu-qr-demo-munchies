@@ -313,7 +313,7 @@ input, select, textarea {
 		}
 
 		h3 {
-			font-size: 1.25rem;
+			font-size: 1.5rem;
 		}
 
 		h4 {
@@ -2152,10 +2152,10 @@ input, select, textarea {
 		input[type="button"].small,
 		button.small,
 		.button.small {
-			font-size: 0.6rem;
-			height: 3.325em;
-			line-height: 3.325em;
-			border-radius: 3.325em;
+			font-size: 1rem;
+			height: 3em;
+			line-height: 3em;
+			border-radius: 4em;
 			padding: 0 2em;
 		}
 
